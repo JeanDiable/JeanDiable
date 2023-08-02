@@ -1,8 +1,9 @@
 ### Hi there 👋
 ### I'm Suizhi Huang.
 
-<br/>
 
+
+# About Me
 - 🍒  Graduate student in progress.
 - 📍  Shanghai.
 - 👨‍🎓  SJTU.
