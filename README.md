@@ -21,6 +21,10 @@
 <img height='180' src="https://github-readme-stats.vercel.app/api?username=JeanDiable&show_icons=true&theme=cobalt" align="center" />
 </div>  
 
+<div align="left">
+<img src="./profile-3d-contrib/profile-green-animate.svg" align="center" />
+</div>
+
 <br/>  
 
 
