@@ -5,7 +5,7 @@
 - 🍒  Graduate student in progress.
 - 📍  Shanghai.
 - 👨‍🎓  SJTU.
-- 👩‍💻  CV(Multi-task, Multi-modal, Federated Learning, SLAM,).
+- 👩‍💻  CV(Multi-task, Multi-modal, Federated Learning, SLAM)
 - 📧  Personal: [sunrien.huang@gmail.com](mailto:sunrisen.huang@gmail.com).
 - 📧  Official: [huangsuizhi@sjtu.edu.cn](mailto:huangsuizhi@sjtu.edu.cn).
 
