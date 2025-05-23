@@ -2,12 +2,11 @@
 ### I'm Suizhi Huang.
 
 # About Me
-- 🍒  Graduate student in progress.
-- 📍  Shanghai.
-- 👨‍🎓  SJTU.
-- 👩‍💻  CV(Multi-task, Multi-modal, Federated Learning, SLAM)
+- 📍  Singapore.
+- 👨‍🎓  NTU.
+- 👩‍💻  Federated Learning, CV(Multi-task Learning, Generative Model), Continual Learning
 - 📧  Personal: [sunrien.huang@gmail.com](mailto:sunrisen.huang@gmail.com).
-- 📧  Official: [huangsuizhi@sjtu.edu.cn](mailto:huangsuizhi@sjtu.edu.cn).
+- 📧  Official: [suizhi001@e.ntu.edu.sg](mailto:suizhi001@e.ntu.edu.sg).
 
 
 # About My Github
